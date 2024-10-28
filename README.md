@@ -1,0 +1,2 @@
+# cursor-development-plan-templates
+ 
