@@ -1,0 +1,17 @@
+{
+  "name": "cursor-ai-dev-plan-templates",
+  "version": "1.0.0",
+  "description": "Cursor AI development plan templates for use with Composer",
+  "files": [
+    "*.md"
+  ],
+  "keywords": [
+    "cursor-ai",
+    "development",
+    "templates",
+    "composer",
+    "markdown"
+  ],
+  "author": "Nick Saggese",
+  "license": "MIT"
+}
